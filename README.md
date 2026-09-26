@@ -4,6 +4,7 @@ A machine learning project that uses a neural network to classify clothing image
 
 ## Demo
 ![Demo](output.png)
+[View the project on Girls Who Code TextJam](https://hq.girlswhocode.com/TextJam/py/22321/2366f398)
 
 ## How I Made It
 
