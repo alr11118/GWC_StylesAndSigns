@@ -3,7 +3,7 @@
 A machine learning project that uses a neural network to classify clothing images from the Fashion-MNIST dataset.
 
 ## Demo
-![Demo](demo.png)
+![Demo](output.png)
 
 ## How I Made It
 
